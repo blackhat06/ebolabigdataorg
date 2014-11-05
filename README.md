@@ -5,7 +5,7 @@
 
 <ul>
 <li> R :- predictive modeling, reactive graphics, Shiny </li>
-<li> Python :- machine leaning. data analysis and web data mining </li>
+<li> Python :- machine learning, data analysis and web data mining </li>
 <li>Hadoop: data collection<ul>
    <li> pig </li>
    <li> Datafu </li>
