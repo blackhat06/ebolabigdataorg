@@ -18,7 +18,7 @@
 <li> Chef:- automated deployment Digitalocean and AWS  </li>
 </ul>
 <h6>We are using R 3.1.0, because it support's all important packages as latest version doesn't support.  <br>
-Also R version >= 3.0 doesn't have problem large vector size upto 64 GB as version 2.15.3 support vector size upto 2GB.
+Also, R version >= 3.0 doesn't have problem large vector size upto 64 GB as version 2.15.3 support vector size upto 2GB.
 If dataframe size > 64Gb; use bigmemory package. 
 </h6>
 
