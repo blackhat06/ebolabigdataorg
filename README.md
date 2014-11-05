@@ -30,7 +30,8 @@
 <li> knitr :- report generation </li>
 <li> stringr :- easier to work with strings</li>
 </ul>
-<ul> <h5>Philosophy </h5> 
+<h5>Philosophy </h5> 
+<ul>
 <li> better cognitive visualisation</li>
 <li> effective modelling</li>
 <li> precise transformation</li>
