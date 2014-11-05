@@ -1,4 +1,4 @@
-<h3> ebolabigdata.org is project data scinece usage for humanitarian solving real world problem. </h3>  
+<h3> ebolabigdata.org is a data science for humanitarian project, which is dedicated to solving real world problems related to Ebola and it's impacts. </h3>  
 
 <h5> List of Languages and tools used: </h5>
 
