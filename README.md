@@ -2,14 +2,19 @@
 
 <h5> List of Languages and tools used: </h5>
 
-1) R :- predictive modeling, reactive graphics, Shiny
-2) Python :- machine leaning. data analysis and web data mining
-3) Hadoop: data collection
-   3.1 :- pig
-   3.2 :- Datafu
-4) Gaffi:-  graph visualization
-5) Tabelue:- data visualization
-6) Bloomberg L.P. API:- realtime feed of stock market data
-7) Node.js :- used for Watson, Bloomberg L.P. API
-8) Chef:- automated deployment Digitalocean and AWS  
-9) Twiiter API: data collection of live twitter feed
+
+<ul>
+<li> R :- predictive modeling, reactive graphics, Shiny </li>
+<li> Python :- machine leaning. data analysis and web data mining </li>
+<li> <ul> Hadoop: data collection  
+   <li> pig </li>
+   <li> Datafu </li>
+   </ul>
+   </li>
+<li> Gaffi:-  graph visualization </li>
+<li> Tabelue:- data visualization </li>
+<li> Bloomberg L.P. API:- realtime feed of stock market data </li>
+<li> Node.js :- used for Watson, Bloomberg L.P. API </li>
+<li> Chef:- automated deployment Digitalocean and AWS  </li>
+<li> Twiiter API: data collection of live twitter feed </li>
+</ul>
