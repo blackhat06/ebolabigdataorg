@@ -1,4 +1,4 @@
-<h3> ebolabigdata.org is a data science for humanitarian project, which is dedicated to solving real world problems related to Ebola and it's impacts. </h3>  
+<h3> <a href="http://ebolabigdata.org"> ebolabigdata.org </a> is a data science for humanitarian project, which is dedicated to solving real world problems related to Ebola and it's impacts. </h3>  
 
 <h5> List of Languages and tools used: </h5>
 
@@ -18,9 +18,7 @@
 <li> Chef:- automated deployment Digitalocean and AWS  </li>
 <li> Twiiter API: data collection of live twitter feed </li>
 </ul>
-
 <h6>We are using R 3.1.0, because it support's all important packages as latest version doesn't support.</h6>
-
 <h5>R packages </h5>
 <ul>
 <li> ggplot2 :- Graphics in R </li>
@@ -32,8 +30,6 @@
 <li> knitr :- report generation </li>
 <li> stringr :- easier to work with strings</li>
 </ul>
-<br>
-
 <ul> <h5>Philosophy </h5> 
 <li> better cognitive visualisation</li>
 <li> effective modelling</li>
