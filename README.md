@@ -1,6 +1,6 @@
-ebolabigdata.org is project data scinece usage for humanitarian solving real world problem.  
+#h1 ebolabigdata.org is project data scinece usage for humanitarian solving real world problem.  
 
-List of Languages and tools used:
+#h3 List of Languages and tools used:
 
 1) R :- predictive modeling, reactive graphics, Shiny
 2) Python :- machine leaning. data analysis and web data mining
