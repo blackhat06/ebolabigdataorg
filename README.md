@@ -32,7 +32,8 @@
 </ul>
 <h5>Philosophy </h5> 
 <ul>
-<li> better cognitive visualisation</li>
+<li> less is more </li>
+<li> better cognitive visualization</li>
 <li> effective modelling</li>
 <li> precise transformation</li>
 <li> data scinece as a ecosystem such as Python, R, Java, Js, Sql, Regex , DevOps, Xpath </li>
