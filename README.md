@@ -52,3 +52,13 @@ If dataframe size > 64Gb; use bigmemory package.
 </ul>
 
 
+         
+<h5> Contribute </h5>
+
+Please do send in Pull Requests for source code ,suggestions, typographic errors, and hyperlinks.
+
+<h6>Contributors </h6>
+
+    Vikash Ruhil 
+
+
