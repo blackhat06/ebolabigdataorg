@@ -55,7 +55,7 @@ If dataframe size > 64Gb; use bigmemory package.
          
 <h5> Contribute </h5>
 
-Please do send in Pull Requests for source code ,suggestions, typographic errors, and hyperlinks.
+Please do send in <a href="https://github.com/blackhat06/ebolabigdataorg/pulls">Pull Requests</a> for source code ,suggestions, typographic errors, and hyperlinks.
 
 <h6>Contributors </h6>
 
